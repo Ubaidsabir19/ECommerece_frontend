@@ -1,0 +1,112 @@
+{
+  "Brand": [
+    {
+      "name": "Comisas",
+      "price": [
+        {
+          "range": 300,
+          "tax": 15
+        }
+      ]
+    },
+    {
+      "name": "Adidas",
+      "price": [
+        {
+          "range": 240,
+          "tax": 5
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "price": [
+        {
+          "range": 180,
+          "tax": 8
+        }
+      ]
+    },
+    {
+      "name": "Danier",
+      "price": [
+        {
+          "range": 600,
+          "tax": 30
+        }
+      ]
+    },
+    {
+      "name": "Elo",
+      "price": [
+        {
+          "range": 350,
+          "tax": 9
+        }
+      ]
+    },
+    {
+      "name": "Focus",
+      "price": [
+        {
+          "range": 400,
+          "tax": 10
+        }
+      ]
+    },
+    {
+      "name": "Engine",
+      "price": [
+        {
+          "range": 200,
+          "tax": 6
+        }
+      ]
+    },
+    {
+      "name": "Outlet",
+      "price": [
+        {
+          "range": 700,
+          "tax": 35
+        }
+      ]
+    },
+    {
+      "name": "Outfitter",
+      "price": [
+        {
+          "range": 900,
+          "tax": 40
+        }
+      ]
+    },
+    {
+      "name": "Sphire",
+      "price": [
+        {
+          "range": 290,
+          "tax": 12
+        }
+      ]
+    },
+    {
+      "name": "J.",
+      "price": [
+        {
+          "range": 480,
+          "tax": 16
+        }
+      ]
+    },
+    {
+      "name": "T.J",
+      "price": [
+        {
+          "range": 500,
+          "tax": 27
+        }
+      ]
+    }
+  ]
+}
